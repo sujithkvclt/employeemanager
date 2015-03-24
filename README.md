@@ -1,2 +1,0 @@
-# employeemanager
-simple spring project

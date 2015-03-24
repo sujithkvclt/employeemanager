@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <copy file="target/employeemanager.war" tofile="/home/sujith/apache-tomcat-7.0.53/webapps/employeemanager.war"/>
+</target>
+</project>
